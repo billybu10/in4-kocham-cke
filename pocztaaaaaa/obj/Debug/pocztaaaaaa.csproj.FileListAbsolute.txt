@@ -1,0 +1,11 @@
+C:\Users\Jakub\source\repos\pocztaaaaaa\bin\Debug\pocztaaaaaa.exe.config
+C:\Users\Jakub\source\repos\pocztaaaaaa\bin\Debug\pocztaaaaaa.exe
+C:\Users\Jakub\source\repos\pocztaaaaaa\bin\Debug\pocztaaaaaa.pdb
+C:\Users\Jakub\source\repos\pocztaaaaaa\obj\Debug\pocztaaaaaa.csproj.AssemblyReference.cache
+C:\Users\Jakub\source\repos\pocztaaaaaa\obj\Debug\pocztaaaaaa.Form1.resources
+C:\Users\Jakub\source\repos\pocztaaaaaa\obj\Debug\pocztaaaaaa.Properties.Resources.resources
+C:\Users\Jakub\source\repos\pocztaaaaaa\obj\Debug\pocztaaaaaa.csproj.GenerateResource.cache
+C:\Users\Jakub\source\repos\pocztaaaaaa\obj\Debug\pocztaaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\pocztaaaaaa\obj\Debug\pocztaaaaaa.exe
+C:\Users\Jakub\source\repos\pocztaaaaaa\obj\Debug\pocztaaaaaa.pdb
+C:\Users\Jakub\source\repos\pocztaaaaaa\obj\Debug\pocztaaaaaa.exe.config
